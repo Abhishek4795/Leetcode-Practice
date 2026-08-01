@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Abhishek4795/Leetcode-Practice/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/Abhishek4795/Leetcode-Practice/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhishek4795/Leetcode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/Abhishek4795/Leetcode-Practice/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -79,4 +80,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Abhishek4795/Leetcode-Practice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhishek4795/Leetcode-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Abhishek4795/Leetcode-Practice/tree/master/0112-path-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Abhishek4795/Leetcode-Practice/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Abhishek4795/Leetcode-Practice/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
